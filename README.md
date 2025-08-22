@@ -12,7 +12,7 @@ Currently working as a full stack developer at [GreenTomatoMedia](https://greent
 - **Frontend:** React.js, Next.js, Redux, TanStack Query, Typescript, Javascript, Tailwind CSS, CSS, HTML, HTMX.
 - **DevOps:** Bash Scripting, Docker, GitLab CI/CD, Github Action, Kubernetes, Terraform, GitOps, ArgoCD, Grafana.
 - **Databases**: PostgreSQL, Convex, MySQL, SQLite3, Redis.
-- **Technologies**: Cloudflare Workers, Cloudflare Pages, AWS, Google Cloud Bigquery, LookerStudio, Cloud Functions, Resend, Shadcn. 
+- **Technologies**: Cloudflare Workers, Cloudflare Pages, AWS, Google Cloud Bigquery, LookerStudio, Cloud Functions, Shadcn. 
 - **Others**: Web Scraping, Git, Vim, Linux. 
 
 ### Checkout my personal projects below: ⇣
