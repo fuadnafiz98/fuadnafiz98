@@ -16,6 +16,8 @@ Currently working as a full stack developer at [GreenTomatoMedia](https://greent
 - **Technologies**: Cloudflare Workers, Cloudflare Pages, AWS, Google Cloud Bigquery, LookerStudio, Cloud Functions, Shadcn. 
 - **Others**: Web Scraping, Git, Vim, Linux. 
 
+<img src="https://komarev.com/ghpvc/?username=fuadnafiz98&label=Profile%20Views&color=09090b&style=for-the-badge" alt="fuadnafiz98" align="left" /><br />
+
 ### Checkout my personal projects below: ⇣
 
 
