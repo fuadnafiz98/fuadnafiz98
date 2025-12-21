@@ -2,7 +2,7 @@
 
 Hello I am Nafiz, full stack software engineer specializing in **Django**, **Python**, **React.js**, **Typescript**, **PostgreSQL** and **Containerization**.
 
-Currently working as a full stack developer at [GreenTomatoMedia](https://greentomatomedia.com/). 
+Currently working as a Senior full stack developer at [GreenTomatoMedia](https://greentomatomedia.com/). 
 
 ### Connect
 [Portfolio](https://fuadnafiz98.com) | [Email](mailto:dev@fuadnafiz98.com) | [LinkedIn](https://www.linkedin.com/in/fuadnafiz98) | [X](https://twitter.com/fuadnafiz98) | [Youtube](https://www.youtube.com/@fuadnafiz98)
@@ -15,8 +15,6 @@ Currently working as a full stack developer at [GreenTomatoMedia](https://greent
 - **Databases**: PostgreSQL, Convex, MySQL, SQLite3, Redis.
 - **Technologies**: Cloudflare Workers, Cloudflare Pages, AWS, Google Cloud Bigquery, LookerStudio, Cloud Functions, Shadcn. 
 - **Others**: Web Scraping, Git, Vim, Linux. 
-
-<img src="https://komarev.com/ghpvc/?username=fuadnafiz98&label=Profile%20Views&color=09090b&style=for-the-badge" alt="fuadnafiz98" align="left" /><br />
 
 ### Checkout my personal projects below: ⇣
 
